@@ -28,7 +28,7 @@ Python Command Line Tool to Generate Blank Images using Pillow.
 
 
 ------------------
-## Python Package Index Install 
+## Install 
 
 ```
 pip install blankimage-pil
