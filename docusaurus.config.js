@@ -4,9 +4,9 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-let repo = "docs";
-let project_repo = "";
-let project = "docs template";
+let repo = "blankimage-pil-docs";
+let project_repo = "blankimage-pil";
+let project = "Docs for blankimage-pil";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
