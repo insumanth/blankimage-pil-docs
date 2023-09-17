@@ -3,46 +3,36 @@ slug: /
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# blankimage-pil
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Python Command Line Tool to Generate Blank Images using Pillow.
 
-## Getting Started
 
-Get started by **creating a new site**.
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/blankimage-pil?style=for-the-badge)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Python Package Index Badges
 
-### What you'll need
+[![PyPI](https://img.shields.io/pypi/v/blankimage-pil?style=for-the-badge&color=gree&logo=pypi)](https://pypi.org/project/blankimage-pil/)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/blankimage-pil?label=Downloads&style=for-the-badge)
+![PyPI - Status](https://img.shields.io/pypi/status/blankimage-pil?label=Status&style=for-the-badge)
+![PyPI - Format](https://img.shields.io/pypi/format/blankimage-pil?label=Format&style=for-the-badge)
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+### Github Badges
 
-Generate a new Docusaurus site using the **classic template**.
+![GitHub last commit](https://img.shields.io/github/last-commit/insumanth/blankimage-pil?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/insumanth/blankimage-pil?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/insumanth/blankimage-pil?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/insumanth/blankimage-pil?style=for-the-badge)
 
-The classic template will automatically be added to your project after you run the command:
 
-```bash
-npm init docusaurus@latest my-website classic
+
+------------------
+## Python Package Index Install 
+
 ```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
+pip install blankimage-pil
 ```
+-------------------
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
